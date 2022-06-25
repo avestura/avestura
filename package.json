@@ -1,0 +1,23 @@
+{
+  "name": "avestura-readme",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">\r   <a href=\"https://avestura.dev/profile\"><img src='https://github.com/avestura/avestura/raw/master/illustrations/me.svg?sanitize=true' alt=\"Me\" title=\"Me\" height='55px'/></a>　\r   <a href=\"https://avestura.dev/\"><img src='https://github.com/avestura/avestura/raw/master/illustrations/blog.svg?sanitize=true' alt=\"Blog\" title=\"Blog\" height='55px'/></a>　\r   <a href=\"https://avestura.dev/projects/\"><img src='https://github.com/avestura/avestura/raw/master/illustrations/projects.svg?sanitize=true' alt=\"Projects\" title=\"Projects\" height='55px'/></a>　\r </p>",
+  "main": "updator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/avestura/avestura.git"
+  },
+  "author": "Avestura",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avestura/avestura/issues"
+  },
+  "homepage": "https://github.com/avestura/avestura#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  },
+  "type": "module"
+}
