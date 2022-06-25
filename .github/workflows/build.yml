@@ -1,5 +1,4 @@
 name: Build README
-description: Updates pipeline on schedule
 on:
   push:
   workflow_dispatch:
