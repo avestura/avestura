@@ -3,7 +3,7 @@
   <a href="https://avestura.dev/"><img src='https://github.com/avestura/avestura/raw/master/illustrations/blog.svg?sanitize=true' alt="Blog" title="Blog" height='55px'/></a>　
   <a href="https://avestura.dev/projects/"><img src='https://github.com/avestura/avestura/raw/master/illustrations/projects.svg?sanitize=true' alt="Projects" title="Projects" height='55px'/></a>　
 </p>
-
+<hr>
 <details>
   <summary>My latest blog posts</summary>
   
