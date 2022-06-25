@@ -5,7 +5,7 @@
 </p>
 <hr>
 <details>
-  <summary>My latest blog posts</summary>
+  <summary>📝 My latest blog posts</summary>
   
 <ul>
 <blog-posts/>
@@ -13,7 +13,7 @@
 </details>
 
 <details>
-  <summary>My latest code snippets</summary>
+  <summary>📘 My latest code snippets</summary>
 
 <ul>
 <snippets/>
