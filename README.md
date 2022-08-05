@@ -8,7 +8,7 @@
   <summary>📝 My latest blog posts</summary>
   
 <ul>
-<li><a href="https://avestura.dev/blog/hide-a-photo-inside-another-photo">Hiding a photo inside another photo</a></li><li><a href="https://avestura.dev/blog/ideal-programming-language">An opinion on what's a good general-purpose programming language</a></li><li><a href="https://avestura.dev/blog/what-is-the-type-of-type">What is the type of Type?</a></li><li><a href="https://avestura.dev/blog/versioning-microservices-projects">Versioning microservices in GitLab monorepos and polyrepos</a></li><li><a href="https://avestura.dev/blog/change-visibility-in-massive-github-orgs">How to change visibility in massive GitHub organizations like EpicGames?</a></li><li><a href="https://avestura.dev/blog/run-tor-with-powershell">Using Tor outside of the Tor Browser</a></li>
+<li><a href="https://avestura.dev/blog/zero-knowledge-proofs">Understanding zero-knowledge proofs</a></li><li><a href="https://avestura.dev/blog/hide-a-photo-inside-another-photo">Hiding a photo inside another photo</a></li><li><a href="https://avestura.dev/blog/ideal-programming-language">An opinion on what's a good general-purpose programming language</a></li><li><a href="https://avestura.dev/blog/what-is-the-type-of-type">What is the type of Type?</a></li><li><a href="https://avestura.dev/blog/versioning-microservices-projects">Versioning microservices in GitLab monorepos and polyrepos</a></li><li><a href="https://avestura.dev/blog/change-visibility-in-massive-github-orgs">How to change visibility in massive GitHub organizations like EpicGames?</a></li><li><a href="https://avestura.dev/blog/run-tor-with-powershell">Using Tor outside of the Tor Browser</a></li>
 </ul>
 </details>
 
